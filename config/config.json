@@ -1,0 +1,18 @@
+{
+    "personalia": [
+        {
+            "naam": "Jurre Hart",
+            "geboortedatum": "1979-10-29"
+        }
+    ],
+    "medicatie": [
+        "Apixaban 5 mg (2x per dag)",
+        "Metoprololsuccinaat 50 mg (1x per dag)",
+        "Atorvastatine 20 mg (1x per dag 's avonds)"
+    ],
+    "opmerkingen": [
+        "Controle bij cardioloog gepland in september.",
+        "Metingen 's ochtends en 's avonds uitgevoerd.",
+        "Bij inspanning lichte hartkloppingen gemeld."
+    ]
+}
