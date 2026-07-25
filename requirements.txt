@@ -1,0 +1,5 @@
+pandas
+matplotlib
+weasyprint
+PyQt6
+pyinstaller
